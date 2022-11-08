@@ -5,7 +5,19 @@
     <link>https://andreaciacciacodeploy.github.io/</link>
     <description>Recent content on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andreaciacciacodeploy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jan 2019 09:00:00 +0000</lastBuildDate><atom:link href="https://andreaciacciacodeploy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VueのNavigation Guards</title>
+      <link>https://andreaciacciacodeploy.github.io/posts/prova/</link>
+      <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciacciacodeploy.github.io/posts/prova/</guid>
+      <description>Navigation guards are provided by vue-router. Three ways to hook:
+globally per-route in-component NOTE:
+Params or query changes won&amp;rsquo;t trigger enter/leave navigation guards. You can either watch the $route object to react to those changes, or use the beforeRouteUpdate in-component guard. Make sure to always call the next function, otherwise the hook will never be resolved. Global const router = new VueRouter({ ... }) // Before Guards router.beforeEach((to, from, next) =&amp;gt; { // .</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://andreaciacciacodeploy.github.io/about/</link>
@@ -13,15 +25,6 @@
       
       <guid>https://andreaciacciacodeploy.github.io/about/</guid>
       <description>about me</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreaciacciacodeploy.github.io/posts/prova/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciacciacodeploy.github.io/posts/prova/</guid>
-      <description></description>
     </item>
     
   </channel>
