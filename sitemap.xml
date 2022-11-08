@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://andreaciacciacodeploy.github.io/</loc>
-    <lastmod>2019-01-25T09:00:00+00:00</lastmod>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreaciacciacodeploy.github.io/tags/javascript/</loc>
-    <lastmod>2019-01-25T09:00:00+00:00</lastmod>
+    <loc>https://andreaciacciacodeploy.github.io/tags/frontend/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciacciacodeploy.github.io/tags/jam/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciacciacodeploy.github.io/tags/jam-stack/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciacciacodeploy.github.io/posts/jam-stack/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreaciacciacodeploy.github.io/posts/</loc>
-    <lastmod>2019-01-25T09:00:00+00:00</lastmod>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreaciacciacodeploy.github.io/tags/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciacciacodeploy.github.io/tags/javascript/</loc>
     <lastmod>2019-01-25T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreaciacciacodeploy.github.io/tags/vue.js/</loc>
@@ -24,7 +36,5 @@
     <priority>0</priority>
   </url><url>
     <loc>https://andreaciacciacodeploy.github.io/categories/</loc>
-  </url><url>
-    <loc>https://andreaciacciacodeploy.github.io/posts/jam-stack/</loc>
   </url>
 </urlset>
