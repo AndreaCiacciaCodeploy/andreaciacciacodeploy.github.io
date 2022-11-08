@@ -18,5 +18,14 @@ globally per-route in-component NOTE:
 Params or query changes won&amp;rsquo;t trigger enter/leave navigation guards. You can either watch the $route object to react to those changes, or use the beforeRouteUpdate in-component guard. Make sure to always call the next function, otherwise the hook will never be resolved. Global const router = new VueRouter({ ... }) // Before Guards router.beforeEach((to, from, next) =&amp;gt; { // .</description>
     </item>
     
+    <item>
+      <title>Jam stack</title>
+      <link>https://andreaciacciacodeploy.github.io/posts/jam-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciacciacodeploy.github.io/posts/jam-stack/</guid>
+      <description>viva il jam stack</description>
+    </item>
+    
   </channel>
 </rss>

@@ -27,5 +27,14 @@ Params or query changes won&amp;rsquo;t trigger enter/leave navigation guards. Y
       <description>about me</description>
     </item>
     
+    <item>
+      <title>Jam stack</title>
+      <link>https://andreaciacciacodeploy.github.io/posts/jam-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciacciacodeploy.github.io/posts/jam-stack/</guid>
+      <description>viva il jam stack</description>
+    </item>
+    
   </channel>
 </rss>

@@ -24,5 +24,7 @@
     <priority>0</priority>
   </url><url>
     <loc>https://andreaciacciacodeploy.github.io/categories/</loc>
+  </url><url>
+    <loc>https://andreaciacciacodeploy.github.io/posts/jam-stack/</loc>
   </url>
 </urlset>
