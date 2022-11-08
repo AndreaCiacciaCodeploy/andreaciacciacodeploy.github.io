@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrea Ciaccia</title>
-    <link>https://andreaciaccia.it/</link>
+    <link>https://andreaciacciacodeploy.github.io/</link>
     <description>Recent content on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andreaciaccia.it/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://andreaciacciacodeploy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://andreaciaccia.it/about/</link>
+      <link>https://andreaciacciacodeploy.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andreaciaccia.it/about/</guid>
+      <guid>https://andreaciacciacodeploy.github.io/about/</guid>
       <description>about me</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://andreaciaccia.it/posts/prova/</link>
+      <link>https://andreaciacciacodeploy.github.io/posts/prova/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andreaciaccia.it/posts/prova/</guid>
+      <guid>https://andreaciacciacodeploy.github.io/posts/prova/</guid>
       <description></description>
     </item>
     

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Andrea Ciaccia</title>
-    <link>https://andreaciaccia.it/categories/</link>
+    <link>https://andreaciacciacodeploy.github.io/categories/</link>
     <description>Recent content in Categories on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andreaciaccia.it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://andreaciacciacodeploy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
