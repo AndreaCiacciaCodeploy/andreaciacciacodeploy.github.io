@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Andrea Ciaccia",
+    "home_page_url": "https://andreaciaccia.it",
+    "feed_url": "https://andreaciaccia.itfeed.json",
+    "description": "A minimal hugo theme focus on content",
+    "favicon": "https://andreaciaccia.it/assets/favicon.ico",
+    "expired": false,
+    "author": {
+      "name": "Calvin Tran",
+      "url": "https://canhtran.me/"
+    },
+    "items": [
+      
+      
+  
+      
+    ]
+  }
