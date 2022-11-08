@@ -5,9 +5,13 @@
     <loc>https://andreaciaccia.it/about/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://andreaciaccia.it/posts/prova/</loc>
+  </url><url>
     <loc>https://andreaciaccia.it/</loc>
   </url><url>
     <loc>https://andreaciaccia.it/categories/</loc>
+  </url><url>
+    <loc>https://andreaciaccia.it/posts/</loc>
   </url><url>
     <loc>https://andreaciaccia.it/tags/</loc>
   </url>
