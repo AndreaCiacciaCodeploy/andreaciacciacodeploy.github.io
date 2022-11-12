@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jam stack on Andrea Ciaccia</title>
-    <link>https://andreaciacciacodeploy.github.io/tags/jam-stack/</link>
+    <link>https://andreaciaccia.it/tags/jam-stack/</link>
     <description>Recent content in jam stack on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciacciacodeploy.github.io/tags/jam-stack/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/tags/jam-stack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jam stack</title>
-      <link>https://andreaciacciacodeploy.github.io/posts/jam-stack/</link>
+      <link>https://andreaciaccia.it/posts/jam-stack/</link>
       <pubDate>Mon, 07 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/posts/jam-stack/</guid>
+      <guid>https://andreaciaccia.it/posts/jam-stack/</guid>
       <description>viva il jam stack</description>
     </item>
     

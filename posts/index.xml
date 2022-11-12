@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Andrea Ciaccia</title>
-    <link>https://andreaciacciacodeploy.github.io/posts/</link>
+    <link>https://andreaciaccia.it/posts/</link>
     <description>Recent content in Posts on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciacciacodeploy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fdafds</title>
-      <link>https://andreaciacciacodeploy.github.io/posts/fdafds/</link>
+      <link>https://andreaciaccia.it/posts/fdafds/</link>
       <pubDate>Wed, 09 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/posts/fdafds/</guid>
+      <guid>https://andreaciaccia.it/posts/fdafds/</guid>
       <description>fsdfasdssfds</description>
     </item>
     
     <item>
       <title>prova</title>
-      <link>https://andreaciacciacodeploy.github.io/posts/prova-1/</link>
+      <link>https://andreaciaccia.it/posts/prova-1/</link>
       <pubDate>Tue, 08 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/posts/prova-1/</guid>
+      <guid>https://andreaciaccia.it/posts/prova-1/</guid>
       <description>il mio contentuto
 fdsfdsaf
 fds</description>
@@ -29,19 +29,19 @@ fds</description>
     
     <item>
       <title>Jam stack</title>
-      <link>https://andreaciacciacodeploy.github.io/posts/jam-stack/</link>
+      <link>https://andreaciaccia.it/posts/jam-stack/</link>
       <pubDate>Mon, 07 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/posts/jam-stack/</guid>
+      <guid>https://andreaciaccia.it/posts/jam-stack/</guid>
       <description>viva il jam stack</description>
     </item>
     
     <item>
       <title>ciao ciao</title>
-      <link>https://andreaciacciacodeploy.github.io/posts/ciao-ciao/</link>
+      <link>https://andreaciaccia.it/posts/ciao-ciao/</link>
       <pubDate>Wed, 02 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/posts/ciao-ciao/</guid>
+      <guid>https://andreaciaccia.it/posts/ciao-ciao/</guid>
       <description>sdòafjdsalòdsjfdas
 fdasfdasfdas
 fads
@@ -58,10 +58,10 @@ dassda</description>
     
     <item>
       <title>VueのNavigation Guards</title>
-      <link>https://andreaciacciacodeploy.github.io/posts/prova/</link>
+      <link>https://andreaciaccia.it/posts/prova/</link>
       <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/posts/prova/</guid>
+      <guid>https://andreaciaccia.it/posts/prova/</guid>
       <description>Navigation guards are provided by vue-router. Three ways to hook:
 globally per-route in-component NOTE:
 Params or query changes won&amp;rsquo;t trigger enter/leave navigation guards. You can either watch the $route object to react to those changes, or use the beforeRouteUpdate in-component guard. Make sure to always call the next function, otherwise the hook will never be resolved. Global const router = new VueRouter({ ... }) // Before Guards router.beforeEach((to, from, next) =&amp;gt; { // .</description>

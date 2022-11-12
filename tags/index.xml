@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andrea Ciaccia</title>
-    <link>https://andreaciacciacodeploy.github.io/tags/</link>
+    <link>https://andreaciaccia.it/tags/</link>
     <description>Recent content in Tags on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciacciacodeploy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ciao</title>
-      <link>https://andreaciacciacodeploy.github.io/tags/ciao/</link>
+      <link>https://andreaciaccia.it/tags/ciao/</link>
       <pubDate>Tue, 08 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/tags/ciao/</guid>
+      <guid>https://andreaciaccia.it/tags/ciao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>frontend</title>
-      <link>https://andreaciacciacodeploy.github.io/tags/frontend/</link>
+      <link>https://andreaciaccia.it/tags/frontend/</link>
       <pubDate>Mon, 07 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/tags/frontend/</guid>
+      <guid>https://andreaciaccia.it/tags/frontend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jam</title>
-      <link>https://andreaciacciacodeploy.github.io/tags/jam/</link>
+      <link>https://andreaciaccia.it/tags/jam/</link>
       <pubDate>Mon, 07 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/tags/jam/</guid>
+      <guid>https://andreaciaccia.it/tags/jam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jam stack</title>
-      <link>https://andreaciacciacodeploy.github.io/tags/jam-stack/</link>
+      <link>https://andreaciaccia.it/tags/jam-stack/</link>
       <pubDate>Mon, 07 Nov 2022 23:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/tags/jam-stack/</guid>
+      <guid>https://andreaciaccia.it/tags/jam-stack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://andreaciacciacodeploy.github.io/tags/javascript/</link>
+      <link>https://andreaciaccia.it/tags/javascript/</link>
       <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/tags/javascript/</guid>
+      <guid>https://andreaciaccia.it/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vue.js</title>
-      <link>https://andreaciacciacodeploy.github.io/tags/vue.js/</link>
+      <link>https://andreaciaccia.it/tags/vue.js/</link>
       <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://andreaciacciacodeploy.github.io/tags/vue.js/</guid>
+      <guid>https://andreaciaccia.it/tags/vue.js/</guid>
       <description></description>
     </item>
     

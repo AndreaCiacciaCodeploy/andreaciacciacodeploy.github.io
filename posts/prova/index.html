@@ -10,7 +10,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> VueのNavigation Guards | Andrea Ciaccia</title>
-  <link rel = 'canonical' href = 'https://andreaciacciacodeploy.github.io/posts/prova/'>
+  <link rel = 'canonical' href = 'https://andreaciaccia.it/posts/prova/'>
   <meta name="description" content="Ciao sono Andrea. Developer &amp; imprenditore (o almeno ci provo). Ho creato questo piccolo spazio per raccogliere eventuali contenuti utili che vorrei condividere o anche solo non perdere :)  In verità ho anche uno spazio Medium e ogni tanto scrivo su Linkedin. Questo ulteriore spazio deriva da uno studio fatto sul JAM stack. Cercherò di organizzare al meglio i vari contenuti :)">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
@@ -20,7 +20,7 @@
 globally per-route in-component NOTE:
 Params or query changes won&rsquo;t trigger enter/leave navigation guards. You can either watch the $route object to react to those changes, or use the beforeRouteUpdate in-component guard. Make sure to always call the next function, otherwise the hook will never be resolved. Global const router = new VueRouter({ ... }) // Before Guards router.beforeEach((to, from, next) =&gt; { // ." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://andreaciacciacodeploy.github.io/posts/prova/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://andreaciaccia.it/posts/prova/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2019-01-25T09:00:00+00:00" />
 <meta property="article:modified_time" content="2019-01-25T09:00:00+00:00" />
 
@@ -34,7 +34,7 @@ Params or query changes won&rsquo;t trigger enter/leave navigation guards. You c
   
   
   
-  <link rel="stylesheet" href="https://andreaciacciacodeploy.github.io/css/styles.94f653e9e151e28067a7c5dbbc4600cbd5a3c721e79faaf971e523c40f3b249b8e4f20bb57810dfffa8d559ca5c140fd56eb4cd9c0853113ad08e66afdb08bdd.css" integrity="sha512-lPZT6eFR4oBnp8XbvEYAy9WjxyHnn6r5ceUjxA87JJuOTyC7V4EN//qNVZylwUD9VutM2cCFMROtCOZq/bCL3Q=="> 
+  <link rel="stylesheet" href="https://andreaciaccia.it/css/styles.94f653e9e151e28067a7c5dbbc4600cbd5a3c721e79faaf971e523c40f3b249b8e4f20bb57810dfffa8d559ca5c140fd56eb4cd9c0853113ad08e66afdb08bdd.css" integrity="sha512-lPZT6eFR4oBnp8XbvEYAy9WjxyHnn6r5ceUjxA87JJuOTyC7V4EN//qNVZylwUD9VutM2cCFMROtCOZq/bCL3Q=="> 
 
   
   
@@ -46,7 +46,7 @@ Params or query changes won&rsquo;t trigger enter/leave navigation guards. You c
   
 
   
-<link rel="icon" type="image/png" href="https://andreaciacciacodeploy.github.io/images/favicon.ico" />
+<link rel="icon" type="image/png" href="https://andreaciaccia.it/images/favicon.ico" />
 
   
   
@@ -78,14 +78,14 @@ Params or query changes won&rsquo;t trigger enter/leave navigation guards. You c
       <ul>
         
         <li>
-          <a class="icon" href=" https://andreaciacciacodeploy.github.io/about/" aria-label="Previous">
+          <a class="icon" href=" https://andreaciaccia.it/about/" aria-label="Previous">
             <i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i>
           </a>
         </li>
         
         
         <li>
-          <a class="icon" href="https://andreaciacciacodeploy.github.io/posts/ciao-ciao/" aria-label="Next">
+          <a class="icon" href="https://andreaciaccia.it/posts/ciao-ciao/" aria-label="Next">
             <i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i>
           </a>
         </li>
@@ -116,47 +116,47 @@ Params or query changes won&rsquo;t trigger enter/leave navigation guards. You c
   
   
   <li>
-    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f" aria-label="Facebook">
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f" aria-label="Facebook">
       <i class="fab fa-facebook " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&text=Vue%e3%81%aeNavigation%20Guards" aria-label="Twitter">
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&text=Vue%e3%81%aeNavigation%20Guards" aria-label="Twitter">
       <i class="fab fa-twitter " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="Linkedin">
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="Linkedin">
       <i class="fab fa-linkedin " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&is_video=false&description=Vue%e3%81%aeNavigation%20Guards" aria-label="Pinterest">
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&is_video=false&description=Vue%e3%81%aeNavigation%20Guards" aria-label="Pinterest">
       <i class="fab fa-pinterest " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject=Vue%e3%81%aeNavigation%20Guards&body=Check out this article: https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f" aria-label="Email">
+    <a class="icon" href="mailto:?subject=Vue%e3%81%aeNavigation%20Guards&body=Check out this article: https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f" aria-label="Email">
       <i class="fas fa-envelope " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="Pocket">
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="Pocket">
       <i class="fab fa-get-pocket " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="reddit">
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="reddit">
       <i class="fab fa-reddit " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&name=Vue%e3%81%aeNavigation%20Guards&description=Navigation%20guards%20are%20provided%20by%20vue-router.%20Three%20ways%20to%20hook%3a%0aglobally%20per-route%20in-component%20NOTE%3a%0aParams%20or%20query%20changes%20won%26rsquo%3bt%20trigger%20enter%2fleave%20navigation%20guards.%20You%20can%20either%20watch%20the%20%24route%20object%20to%20react%20to%20those%20changes%2c%20or%20use%20the%20beforeRouteUpdate%20in-component%20guard.%20Make%20sure%20to%20always%20call%20the%20next%20function%2c%20otherwise%20the%20hook%20will%20never%20be%20resolved.%20Global%20const%20router%20%3d%20new%20VueRouter%28%7b%20...%20%7d%29%20%2f%2f%20Before%20Guards%20router.beforeEach%28%28to%2c%20from%2c%20next%29%20%3d%26gt%3b%20%7b%20%2f%2f%20." aria-label="Tumblr">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&name=Vue%e3%81%aeNavigation%20Guards&description=Navigation%20guards%20are%20provided%20by%20vue-router.%20Three%20ways%20to%20hook%3a%0aglobally%20per-route%20in-component%20NOTE%3a%0aParams%20or%20query%20changes%20won%26rsquo%3bt%20trigger%20enter%2fleave%20navigation%20guards.%20You%20can%20either%20watch%20the%20%24route%20object%20to%20react%20to%20those%20changes%2c%20or%20use%20the%20beforeRouteUpdate%20in-component%20guard.%20Make%20sure%20to%20always%20call%20the%20next%20function%2c%20otherwise%20the%20hook%20will%20never%20be%20resolved.%20Global%20const%20router%20%3d%20new%20VueRouter%28%7b%20...%20%7d%29%20%2f%2f%20Before%20Guards%20router.beforeEach%28%28to%2c%20from%2c%20next%29%20%3d%26gt%3b%20%7b%20%2f%2f%20." aria-label="Tumblr">
       <i class="fab fa-tumblr " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&t=Vue%e3%81%aeNavigation%20Guards" aria-label="Hacker News">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&t=Vue%e3%81%aeNavigation%20Guards" aria-label="Hacker News">
       <i class="fab fa-hacker-news " aria-hidden="true"></i>
     </a>
   </li>
@@ -351,47 +351,47 @@ Three ways to hook:</p>
   
   
   <li>
-    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f" aria-label="Facebook">
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f" aria-label="Facebook">
       <i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&text=Vue%e3%81%aeNavigation%20Guards" aria-label="Twitter">
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&text=Vue%e3%81%aeNavigation%20Guards" aria-label="Twitter">
       <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="Linkedin">
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="Linkedin">
       <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&is_video=false&description=Vue%e3%81%aeNavigation%20Guards" aria-label="Pinterest">
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&is_video=false&description=Vue%e3%81%aeNavigation%20Guards" aria-label="Pinterest">
       <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject=Vue%e3%81%aeNavigation%20Guards&body=Check out this article: https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f" aria-label="Email">
+    <a class="icon" href="mailto:?subject=Vue%e3%81%aeNavigation%20Guards&body=Check out this article: https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f" aria-label="Email">
       <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="Pocket">
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="Pocket">
       <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="reddit">
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&title=Vue%e3%81%aeNavigation%20Guards" aria-label="reddit">
       <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&name=Vue%e3%81%aeNavigation%20Guards&description=Navigation%20guards%20are%20provided%20by%20vue-router.%20Three%20ways%20to%20hook%3a%0aglobally%20per-route%20in-component%20NOTE%3a%0aParams%20or%20query%20changes%20won%26rsquo%3bt%20trigger%20enter%2fleave%20navigation%20guards.%20You%20can%20either%20watch%20the%20%24route%20object%20to%20react%20to%20those%20changes%2c%20or%20use%20the%20beforeRouteUpdate%20in-component%20guard.%20Make%20sure%20to%20always%20call%20the%20next%20function%2c%20otherwise%20the%20hook%20will%20never%20be%20resolved.%20Global%20const%20router%20%3d%20new%20VueRouter%28%7b%20...%20%7d%29%20%2f%2f%20Before%20Guards%20router.beforeEach%28%28to%2c%20from%2c%20next%29%20%3d%26gt%3b%20%7b%20%2f%2f%20." aria-label="Tumblr">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&name=Vue%e3%81%aeNavigation%20Guards&description=Navigation%20guards%20are%20provided%20by%20vue-router.%20Three%20ways%20to%20hook%3a%0aglobally%20per-route%20in-component%20NOTE%3a%0aParams%20or%20query%20changes%20won%26rsquo%3bt%20trigger%20enter%2fleave%20navigation%20guards.%20You%20can%20either%20watch%20the%20%24route%20object%20to%20react%20to%20those%20changes%2c%20or%20use%20the%20beforeRouteUpdate%20in-component%20guard.%20Make%20sure%20to%20always%20call%20the%20next%20function%2c%20otherwise%20the%20hook%20will%20never%20be%20resolved.%20Global%20const%20router%20%3d%20new%20VueRouter%28%7b%20...%20%7d%29%20%2f%2f%20Before%20Guards%20router.beforeEach%28%28to%2c%20from%2c%20next%29%20%3d%26gt%3b%20%7b%20%2f%2f%20." aria-label="Tumblr">
       <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fandreaciacciacodeploy.github.io%2fposts%2fprova%2f&t=Vue%e3%81%aeNavigation%20Guards" aria-label="Hacker News">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fandreaciaccia.it%2fposts%2fprova%2f&t=Vue%e3%81%aeNavigation%20Guards" aria-label="Hacker News">
       <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
     </a>
   </li>
