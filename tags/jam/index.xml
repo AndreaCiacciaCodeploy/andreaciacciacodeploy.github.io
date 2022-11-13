@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jam on Andrea Ciaccia</title>
+    <link>https://andreaciaccia.it/tags/jam/</link>
+    <description>Recent content in jam on Andrea Ciaccia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/tags/jam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JAM stack</title>
+      <link>https://andreaciaccia.it/posts/jam-stack/</link>
+      <pubDate>Sat, 12 Nov 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciaccia.it/posts/jam-stack/</guid>
+      <description>Jamstack is an architecture designed to make the web faster, more secure, and easier to scale. It builds on many of the tools and workflows which developers love, and which bring maximum productivity. – Jamstack.org
+JAM stack non è una tecnologia, ma uno stack di diverse componenti per la creazione di siti web. L’acronimo JAM identifica:
+● Javascript
+● Api
+● Markup
+Jamstack rappresenta la volontà di realizzare siti web statici ottenendo vantaggi in termini di performance, velocità, sicurezza, scalabilità e flessibilità.</description>
+    </item>
+    
+  </channel>
+</rss>

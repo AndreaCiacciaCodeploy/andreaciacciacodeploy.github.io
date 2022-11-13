@@ -6,11 +6,29 @@
     <description>Recent content in Tags on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 09:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>JavaScript</title>
+      <title>frontend</title>
+      <link>https://andreaciaccia.it/tags/frontend/</link>
+      <pubDate>Sat, 12 Nov 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciaccia.it/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jam</title>
+      <link>https://andreaciaccia.it/tags/jam/</link>
+      <pubDate>Sat, 12 Nov 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciaccia.it/tags/jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
       <link>https://andreaciaccia.it/tags/javascript/</link>
-      <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Nov 2022 23:00:00 +0000</pubDate>
       
       <guid>https://andreaciaccia.it/tags/javascript/</guid>
       <description></description>
