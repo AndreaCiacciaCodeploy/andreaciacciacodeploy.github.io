@@ -6,7 +6,27 @@
     <description>Recent content in Posts on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 09:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>prova</title>
+      <link>https://andreaciaccia.it/posts/prova-1/</link>
+      <pubDate>Tue, 08 Nov 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciaccia.it/posts/prova-1/</guid>
+      <description>il mio contentuto
+fdsfdsaf
+fds</description>
+    </item>
+    
+    <item>
+      <title>Jam stack</title>
+      <link>https://andreaciaccia.it/posts/jam-stack/</link>
+      <pubDate>Mon, 07 Nov 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciaccia.it/posts/jam-stack/</guid>
+      <description>viva il jam stack</description>
+    </item>
+    
     <item>
       <title>VueのNavigation Guards</title>
       <link>https://andreaciaccia.it/posts/prova/</link>

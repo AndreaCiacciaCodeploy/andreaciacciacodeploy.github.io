@@ -3,15 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://andreaciaccia.it/</loc>
-    <lastmod>2019-01-25T09:00:00+00:00</lastmod>
+    <lastmod>2022-11-08T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreaciaccia.it/tags/javascript/</loc>
-    <lastmod>2019-01-25T09:00:00+00:00</lastmod>
+    <loc>https://andreaciaccia.it/tags/ciao/</loc>
+    <lastmod>2022-11-08T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreaciaccia.it/posts/</loc>
-    <lastmod>2019-01-25T09:00:00+00:00</lastmod>
+    <lastmod>2022-11-08T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciaccia.it/posts/prova-1/</loc>
+    <lastmod>2022-11-08T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreaciaccia.it/tags/</loc>
+    <lastmod>2022-11-08T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciaccia.it/tags/frontend/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciaccia.it/tags/jam/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciaccia.it/tags/jam-stack/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciaccia.it/posts/jam-stack/</loc>
+    <lastmod>2022-11-07T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreaciaccia.it/tags/javascript/</loc>
     <lastmod>2019-01-25T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreaciaccia.it/tags/vue.js/</loc>
