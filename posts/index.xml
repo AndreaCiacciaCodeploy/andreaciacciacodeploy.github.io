@@ -32,5 +32,14 @@ globally per-route in-component NOTE:
 Params or query changes won&amp;rsquo;t trigger enter/leave navigation guards. You can either watch the $route object to react to those changes, or use the beforeRouteUpdate in-component guard. Make sure to always call the next function, otherwise the hook will never be resolved. Global const router = new VueRouter({ ... }) // Before Guards router.beforeEach((to, from, next) =&amp;gt; { // .</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://andreaciaccia.it/posts/output/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciaccia.it/posts/output/</guid>
+      <description>Titolo Cosa fare se hai il cellulare sempre scarico, la soluzione potrebbe essere definitiva# ContenutoIn un mondo in cui l’uso dello smartphone è diventato costante, avere la batteria scarica può essere un grande problema soprattutto se si il telefono viene usato spesso per lavoro o per tenersi aggiornati con amici e parenti. Le cause principali della batteria che si scarica sono molte, alcune però sono decisamente più impattanti che possono arrivare a ridurre la vita dello smartphone ad appena 2-3 anni, anche nel caso in cui lo si compri nuovo di zecca nei negozi.</description>
+    </item>
+    
   </channel>
 </rss>

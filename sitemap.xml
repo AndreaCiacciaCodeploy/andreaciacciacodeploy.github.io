@@ -32,6 +32,8 @@
     <loc>https://andreaciaccia.it/about/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://andreaciaccia.it/posts/output/</loc>
+  </url><url>
     <loc>https://andreaciaccia.it/categories/</loc>
   </url>
 </urlset>
