@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/runner/work/PersonalWebsite/PersonalWebsite",
+	"sourceRoot": "/home/runner/work/my-website/my-website",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",
