@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>watchOS 9.3 on Andrea Ciaccia</title>
+    <link>https://andreaciaccia.it/tags/watchos-9.3/</link>
+    <description>Recent content in watchOS 9.3 on Andrea Ciaccia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2023 11:19:48 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/tags/watchos-9.3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple aggiorna i suoi dispositivi ecco cosa introduce iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3 e macOS 13.2 - iPhonari.it</title>
+      <link>https://andreaciaccia.it/posts/nuovopost/</link>
+      <pubDate>Sun, 15 Jan 2023 11:19:48 +0000</pubDate>
+      
+      <guid>https://andreaciaccia.it/posts/nuovopost/</guid>
+      <description>Apple rilascia nuovi aggiornamenti per i suoi dispositivi: iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3 e macOS 13.2. Questi aggiornamenti introdurranno alcune nuove funzionalità come il sistema di Handoff per trasferire attività da un dispositivo ad un altro, e SOS emergenze per chiamare i servizi di emergenza in maniera più semplice.</description>
+    </item>
+    
+  </channel>
+</rss>
