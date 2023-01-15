@@ -6,16 +6,7 @@
     <description>Recent content on Andrea Ciaccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2023 11:19:48 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apple aggiorna i suoi dispositivi ecco cosa introduce iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3 e macOS 13.2 - iPhonari.it</title>
-      <link>https://andreaciaccia.it/posts/nuovopost/</link>
-      <pubDate>Sun, 15 Jan 2023 11:19:48 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/nuovopost/</guid>
-      <description>Apple rilascia nuovi aggiornamenti per i suoi dispositivi: iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3 e macOS 13.2. Questi aggiornamenti introdurranno alcune nuove funzionalità come il sistema di Handoff per trasferire attività da un dispositivo ad un altro, e SOS emergenze per chiamare i servizi di emergenza in maniera più semplice.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 12 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JAM stack</title>
       <link>https://andreaciaccia.it/posts/jam-stack/</link>
@@ -31,41 +22,12 @@ Jamstack rappresenta la volontà di realizzare siti web statici ottenendo vantag
     </item>
     
     <item>
-      <title>VueのNavigation Guards</title>
-      <link>https://andreaciaccia.it/posts/prova/</link>
-      <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/prova/</guid>
-      <description>Navigation guards are provided by vue-router. Three ways to hook:
-globally per-route in-component NOTE:
-Params or query changes won&amp;rsquo;t trigger enter/leave navigation guards. You can either watch the $route object to react to those changes, or use the beforeRouteUpdate in-component guard. Make sure to always call the next function, otherwise the hook will never be resolved. Global const router = new VueRouter({ ... }) // Before Guards router.beforeEach((to, from, next) =&amp;gt; { // .</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://andreaciaccia.it/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andreaciaccia.it/about/</guid>
       <description>📍 Founder Codeploy srl. Cloud Solution Architect. Full stack developer. In Codeploy ci occupiamo di progettare soluzioni digitali per aiutare imprese e persone a sfruttare i vantaggi che la tecnologia può offrire. Mi piace pensare che per ogni attività o processo esiste sempre uno step ulteriore che possa migliorare lo stato attuale. Per questo motivo in Codeploy crediamo che l&amp;rsquo;innovazione sia prima di tutto una ricerca di qualità continua volta a creare un cambiamento positivo, utile e rilevante.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreaciaccia.it/posts/output/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/output/</guid>
-      <description>Titolo Cosa fare se hai il cellulare sempre scarico, la soluzione potrebbe essere definitiva# ContenutoIn un mondo in cui l’uso dello smartphone è diventato costante, avere la batteria scarica può essere un grande problema soprattutto se si il telefono viene usato spesso per lavoro o per tenersi aggiornati con amici e parenti. Le cause principali della batteria che si scarica sono molte, alcune però sono decisamente più impattanti che possono arrivare a ridurre la vita dello smartphone ad appena 2-3 anni, anche nel caso in cui lo si compri nuovo di zecca nei negozi.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreaciaccia.it/posts/output1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/output1/</guid>
-      <description>Titolo Whatsapp, incredibile: il metodo per mettere al sicuro le tue chat (lontano da occhi indiscreti)# ContenutoScopri come mettere al sicuro le tue chat su Whatsapp e proteggerle da occhi indiscreti! Ecco il metodo semplice ed efficace per farlo: basta andare in impostazioni, premere sulla chat desiderata e cliccare il tasto ‘sblocca con impronta’. In questo modo, possiamo rendere la nostra chat ‘segreta’ e far sÃ¬ che nessuno guardi il suo contenuto.</description>
     </item>
     
   </channel>
