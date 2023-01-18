@@ -7,11 +7,21 @@
     
     <language>en</language>
     <copyright>Copyright 2023, Calvin Tran</copyright>
-    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="https://maverick.canhtran.me/atom.xml" rel="self" type="application/atom+xml"/>
     
+    
+    <item>
+      <title>Carburanti, sciopero congelato in attesa passi concreti Governo. Nuovo incontro giovedì</title>
+      <link>https://maverick.canhtran.me/posts/post_20230118003516/</link>
+      <description>&lt;p&gt;Lo sciopero dei gestori degli impianti dei carburanti fissato per il 25 e il 26 gennaio resta congelato in attesa di passi concreti da parte del Governo. Dopo quello di oggi al ministero delle Imprese e del Made in Italy al quale ha partecipato il ministro Adolfo Urso, un nuovo incontro è stato fissato per giovedì prima della conferenza stampa di Faib, Fegica e Figisc che decideranno definitivamente se confermare o meno la proposta. Il Governo si è detto disponibile a modifiche al decreto sulla trasparenza dei prezzi, mentre le associazioni dei gestori sperano in più concretezza. Lo sciopero resta congelato in attesa di un nuovo incontro al Mimit giovedì mattina alle 9.30.&lt;/p&gt;
+</description>
+      <author>Calvin Tran</author>
+      <guid>https://maverick.canhtran.me/posts/post_20230118003516/</guid>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
     
     <item>
       <title>Ancora Galaxy S23 colori e design di tutti i modelli | AndroidWorld</title>
@@ -21,16 +31,6 @@
       <author>Calvin Tran</author>
       <guid>https://maverick.canhtran.me/posts/post_20230116013156/</guid>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>Carburanti, sciopero congelato in attesa passi concreti Governo. Nuovo incontro giovedì</title>
-      <link>https://maverick.canhtran.me/posts/post_20230118003516/</link>
-      <description>&lt;p&gt;Lo sciopero dei gestori degli impianti dei carburanti fissato per il 25 e il 26 gennaio resta congelato in attesa di passi concreti da parte del Governo. Dopo quello di oggi al ministero delle Imprese e del Made in Italy al quale ha partecipato il ministro Adolfo Urso, un nuovo incontro è stato fissato per giovedì prima della conferenza stampa di Faib, Fegica e Figisc che decideranno definitivamente se confermare o meno la proposta. Il Governo si è detto disponibile a modifiche al decreto sulla trasparenza dei prezzi, mentre le associazioni dei gestori sperano in più concretezza. Lo sciopero resta congelato in attesa di un nuovo incontro al Mimit giovedì mattina alle 9.30.&lt;/p&gt;
-</description>
-      <author>Calvin Tran</author>
-      <guid>https://maverick.canhtran.me/posts/post_20230118003516/</guid>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
     </item>
     
   </channel>
