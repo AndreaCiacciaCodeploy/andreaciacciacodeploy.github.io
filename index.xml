@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrea Ciaccia</title>
+    <title>Andrea Codeployer</title>
     <link>https://andreaciaccia.it/</link>
-    <description>Recent content on Andrea Ciaccia</description>
+    <description>Recent content on Andrea Codeployer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://andreaciaccia.it/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>JAM stack</title>
-      <link>https://andreaciaccia.it/posts/jam-stack/</link>
-      <pubDate>Sat, 12 Nov 2022 23:00:00 +0000</pubDate>
+      <title>Creating a New Theme</title>
+      <link>https://andreaciaccia.it/posts/post_20230116013156/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://andreaciaccia.it/posts/jam-stack/</guid>
-      <description>Jamstack is an architecture designed to make the web faster, more secure, and easier to scale. It builds on many of the tools and workflows which developers love, and which bring maximum productivity. – Jamstack.org
-JAM stack non è una tecnologia, ma uno stack di diverse componenti per la creazione di siti web. L’acronimo JAM identifica:
-● Javascript
-● Api
-● Markup
-Jamstack rappresenta la volontà di realizzare siti web statici ottenendo vantaggi in termini di performance, velocità, sicurezza, scalabilità e flessibilità.</description>
+      <guid>https://andreaciaccia.it/posts/post_20230116013156/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -28,60 +23,6 @@ Jamstack rappresenta la volontà di realizzare siti web statici ottenendo vantag
       
       <guid>https://andreaciaccia.it/about/</guid>
       <description>📍 Founder Codeploy srl. Cloud Solution Architect. Full stack developer. In Codeploy ci occupiamo di progettare soluzioni digitali per aiutare imprese e persone a sfruttare i vantaggi che la tecnologia può offrire. Mi piace pensare che per ogni attività o processo esiste sempre uno step ulteriore che possa migliorare lo stato attuale. Per questo motivo in Codeploy crediamo che l&amp;rsquo;innovazione sia prima di tutto una ricerca di qualità continua volta a creare un cambiamento positivo, utile e rilevante.</description>
-    </item>
-    
-    <item>
-      <title>Ancora Galaxy S23 colori e design di tutti i modelli | AndroidWorld</title>
-      <link>https://andreaciaccia.it/posts/post_20230116013156/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/post_20230116013156/</guid>
-      <description>Samsung è ormai prontissima per il periodo più importante per il suo mercato smartphone a livello globale, quello in cui lancerà ufficialmente a livello globale i suoi nuovi top di gamma. Canale Telegram Offerte Parliamo chiaramente dei Galaxy S23, i tre modelli che verranno ufficializzati a inizio febbraio a livello internazionale e dei quali ormai già sappiamo molto. Gli ultimi rumor infatti ci hanno mostrato le potenzialità fotografiche, tutte le tutte le presunte specifiche tecniche e le recenti conferme sul design.</description>
-    </item>
-    
-    <item>
-      <title>Ancora Galaxy S23 colori e design di tutti i modelli | AndroidWorld</title>
-      <link>https://andreaciaccia.it/posts/post_20230116014047/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/post_20230116014047/</guid>
-      <description>Samsung è ormai prontissima per il periodo più importante per il suo mercato smartphone a livello globale, quello in cui lancerà ufficialmente a livello globale i suoi nuovi top di gamma. Parliamo chiaramente dei Galaxy S23, i tre modelli che verranno ufficializzati a inizio febbraio a livello internazionale e dei quali ormai già sappiamo molto. Le ultime immagini mostrano le colorazioni di Galaxy S23 Ultra, S23 e S23+ e confermano ancora una volta il design squadrato e la presenza di quattro sensori fotografici posteriormente.</description>
-    </item>
-    
-    <item>
-      <title>Ancora Galaxy S23 colori e design di tutti i modelli | AndroidWorld</title>
-      <link>https://andreaciaccia.it/posts/post_20230116014501/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/post_20230116014501/</guid>
-      <description>Samsung è ormai prontissima per il periodo più importante per il suo mercato smartphone a livello globale, quello in cui lancerà ufficialmente a livello globale i suoi nuovi top di gamma. Canale Telegram Offerte Parliamo chiaramente dei Galaxy S23, i tre modelli che verranno ufficializzati a inizio febbraio a livello internazionale e dei quali ormai già sappiamo molto. Gli ultimi rumor infatti ci hanno mostrato le potenzialità fotografiche, tutte le tutte le presunte specifiche tecniche e le recenti conferme sul design.</description>
-    </item>
-    
-    <item>
-      <title>Borse, Wall Street prova a colmare il gap con l’Europa</title>
-      <link>https://andreaciaccia.it/posts/post_20230116070048/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/post_20230116070048/</guid>
-      <description>Prosegue il tono positivo delle Borse internazionali in questo primo scorcio del 2023. Nell’ultima settimana il listino più brillante è stato il Nasdaq, balzato del 4,5% grazie alla frenata dell’inflazione Usa. Più contenuto il dato dell’S&amp;amp;P 500 (+2,7%). Il recupero ha solo parzialmente ridotto la sottoperformance degli ultimi mesi rispetto all’Europa. Continua il buon momento anche degli Emergenti (+4,1% l’indice di area) grazie alla risalita di Hong Kong.</description>
-    </item>
-    
-    <item>
-      <title>Pensioni, a febbraio in arrivo i nuovi aumenti dovuti alla rivalutazione</title>
-      <link>https://andreaciaccia.it/posts/post_20230116014852/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/post_20230116014852/</guid>
-      <description>L&amp;rsquo;Inps prosegue con l&amp;rsquo;erogazione degli assegni rivisti per l&amp;rsquo;inflazione. C&amp;rsquo;è chi ha già ricevuto il trattamento pensionistico con l&amp;rsquo;importo aumentato a gennaio, per tutti gli altri (soprattutto per chi si vede accredditati i valori più alti), le novità sul conto arriveranno dal prossimo mese in poi. Da mercoledì 1° febbraio, seguendo il tradizionale ordine alfabetico, l’Inps procederà con l’erogazione delle pensioni con i nuovi importi. La rivalutazione piena, nella misura del 100%, sarà fruibile soltanto da chi riceve assegni che non vanno a superare di più di quattro volte il valore delle pensioni minime.</description>
-    </item>
-    
-    <item>
-      <title>Si rafforza l’ipotesi dell’omicidio per il corpo trovato carbonizzato</title>
-      <link>https://andreaciaccia.it/posts/post_20230116080050/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreaciaccia.it/posts/post_20230116080050/</guid>
-      <description>È stato individuato il proprietario dell’Audi A3 bruciata in zona Morsella. È un egiziano trentenne residente nella stessa frazione. Quando sono arrivati i carabinieri l’auto era già fredda dopo il rogo. Il luogo del ritrovamento è molto isolato, l’Audi A3 era in un angolo di campagna distante dall’abitato della frazione Morsella. I carabinieri hanno trovato all&amp;rsquo;interno dell&amp;rsquo;auto resti umani carbonizzati, difficile stabilire se siano di un uomo o di una donna.</description>
     </item>
     
   </channel>

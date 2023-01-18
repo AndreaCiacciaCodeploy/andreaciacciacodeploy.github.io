@@ -1,0 +1,34 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Maverick",
+  "home_page_url": "https://maverick.canhtran.me",
+  "feed_url": "https://maverick.canhtran.mefeed.json",
+  "description": "A minimal hugo theme focus on content",
+  "favicon": "https://maverick.canhtran.me/assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Calvin Tran",
+    "url": "https://maverick.canhtran.me"
+  },
+  "items": [
+    
+    
+
+    
+    {
+      "id": "082aa6c42c7a276aa67ccf7dedc4f7ca2852bb62",
+      "title": "Ancora Galaxy S23 colori e design di tutti i modelli | AndroidWorld",
+      "summary": "",
+      "content_text": "Samsung è ormai prontissima per il periodo più importante per il suo mercato smartphone a livello globale, quello in cui lancerà ufficialmente a livello globale i suoi nuovi top di gamma. Canale Telegram Offerte Parliamo chiaramente dei Galaxy S23, i tre modelli che verranno ufficializzati a inizio febbraio a livello internazionale e dei quali ormai già sappiamo molto. Gli ultimi rumor infatti ci hanno mostrato le potenzialità fotografiche, tutte le tutte le presunte specifiche tecniche e le recenti conferme sul design. Ora torniamo a parlarne perché nelle ultime ore sono emerse online delle nuove immagini di Galaxy S23, S23+ e S23 Ultra. Stavolta si tratta di render, che hanno tutto il sapore di essere ufficiali, e che mostrano ancora una volta cosa dobbiamo aspettarci dal design e dalle colorazioni dei nuovi Galaxy S23.\n",
+      "content_html": "\u003cp\u003eSamsung è ormai prontissima per il periodo più importante per il suo mercato smartphone a livello globale, quello in cui lancerà ufficialmente a livello globale i suoi nuovi top di gamma. Canale Telegram Offerte Parliamo chiaramente dei Galaxy S23, i tre modelli che verranno ufficializzati a inizio febbraio a livello internazionale e dei quali ormai già sappiamo molto. Gli ultimi rumor infatti ci hanno mostrato le potenzialità fotografiche, tutte le tutte le presunte specifiche tecniche e le recenti conferme sul design. Ora torniamo a parlarne perché nelle ultime ore sono emerse online delle nuove immagini di Galaxy S23, S23+ e S23 Ultra. Stavolta si tratta di render, che hanno tutto il sapore di essere ufficiali, e che mostrano ancora una volta cosa dobbiamo aspettarci dal design e dalle colorazioni dei nuovi Galaxy S23.\u003c/p\u003e\n",
+      "url": "https://maverick.canhtran.me/posts/post_20230116013156/",
+      "date_published": "16016-16-09T10:1616:00+00:00",
+      "date_modified": "16016-16-09T10:1616:00+00:00",
+      "author": {
+        "name": "Calvin Tran",
+        "url": "https://maverick.canhtran.me"
+      }
+    }
+    
+  ]
+}
