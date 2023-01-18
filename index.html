@@ -35,7 +35,7 @@
       "name": "We are all codeployer",
       "url": "https:\/\/andreaciaccia.it",
       "description": "A codeployer adventure",
-      "thumbnailUrl": "https:\/\/andreaciaccia.it\/assets\/favicon.ico",
+      "thumbnailUrl": "https:\/\/andreaciaccia.it\/assets\/andrea_avatar.ico",
       "license": ""
   }
   </script>
@@ -86,18 +86,18 @@ Per realizzare questa pagina ho lavorato sulle seguenti componenti:</p>
 <h2 id="news--ai">NEWS &amp; AI</h2>
 <ul>
 <li><b>news api</b>. Scelgo la news da riassumere tramite l&rsquo;utilizzo di un servizio di news api. <br>Questo -&gt; <a href="https://newsapi.org/" target="_blank">NEWSAPI</a></li>
-<li><b>OPENAI</b>. Il pezzo forte. Il sistema di AI che permette di fare svariate operazioni. Lo uso per ottenere un riassunto del testo di interesse ottenuto dalla specifica news.</li>
+<li><b>OPENAI</b>. Il pezzo forte. Il sistema di AI di <a href="https://openai.com/" target="_blank"> OpenAI </a> che permette di fare svariate operazioni. Lo uso per ottenere un riassunto del testo di interesse ottenuto dalla specifica news.<br></li>
 </ul>
 <h2 id="infrastructure">INFRASTRUCTURE</h2>
 <ul>
-<li><b>heroku</b>. Provider di servizi cloud. Hosta una piccola app in python che implementa l&rsquo;integrazione di NEWS e AI indicati in precedenza. Lo trovi <a href="https://pages.github.com/" target="_blank">QUI</a></li>
+<li><b>heroku</b>. Provider di servizi cloud. Qui ho deployato una piccola app in python che implementa l&rsquo;integrazione di NEWS e AI indicati in precedenza. Lo trovi <a href="https://pages.github.com/" target="_blank">QUI</a></li>
 <li><b>github pages</b>. Servizio di github per l&rsquo;hosting di siti e pagine web statiche. Lo trovi <a href="https://pages.github.com/" target="_blank">QUI</a></li>
 </ul>
 <h2 id="automation">AUTOMATION</h2>
 <ul>
 <li><b>github actions</b>. Azioni automatiche che vengono eseguite in relazione a uno specifico evento sul repository github. In questo caso quando viene pushato un file .md con il contenuto del post, viene avviata la pipeline che effettua la build di hugo e deploya il sito su github pages.</li>
 <li><b>heroku deploy</b>. Deploy automatico dell&rsquo;app python dopo ogni push inviato al repository.</li>
-<li><b>cron-jobs</b> Servizio che permette di impostare cron e scheduler. Qui ho impostato un&rsquo;operazione giornaliera che effettua la chiamata api all&rsquo;app python su heroku che avvia lo script di gestione del contenuto.</li>
+<li><b>cron-jobs</b> Servizio che permette di impostare cron e scheduler. Ho impostato un&rsquo;operazione giornaliera che effettua la chiamata api all&rsquo;app python su heroku che avvia lo script di gestione del contenuto. <a href="https://cron-job.org/en/" target="_blank">cron-jobs.org </a></li>
 </ul>
 <p>-&raquo;&raquo;
 <a href="https://e224ed51.sibforms.com/serve/MUIEAMP0cMSkSUgvkLz5j6v3UTIfMYSki6BwFlRTgPBqMHKrgNe7gPX6mMjoRofZNOYGtF-kARW8yrCEF-1moBjxltPaWvEQ7Pve179pJqIWdfKP6Stz5cUqVP7apB1sCW_QL9ZzCsEIim2pw7Rm0F_ibXYt6GAzoh4NtJXvARa-2vBuFL_ITdBw9X5Kq2ZaiCj7ZxVPTjubcMsN"> Rimaniamo in contatto! </a></p>
