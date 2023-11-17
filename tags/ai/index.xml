@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sperimentiamo con il web</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Sperimentiamo con il web</description>
+    <title>AI on Sperimentiamo con il web</title>
+    <link>https://example.org/tags/ai/</link>
+    <description>Recent content in AI on Sperimentiamo con il web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Fri, 17 Nov 2023 00:15:17 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 00:15:17 +0100</lastBuildDate><atom:link href="https://example.org/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentazione 6 minuti</title>
       <link>https://example.org/blogs/presentazione-sei-minuti/</link>
@@ -16,15 +16,6 @@
       <description>Come fare una presentazione da esporre in 6 minuti ? Tenere una presentazione, soprattutto se davanti a un pubblico, non è mai semplice. Non sono un guru di pitch e presentazioni, ma mi capita di farne spesso così ho elencato qui alcuni punti e consigli che a me risultano utili.
 obiettivi e target Cosa voglio comunicare ? Quali obiettivi ho ? Chi saranno le persone che mi ascolteranno ?
 agenda Definire una agenda della nostra presentazione ci aiuta a crearne i successivi contenuti</description>
-    </item>
-    
-    <item>
-      <title>Realizzare un sito in JAM stack</title>
-      <link>https://example.org/blogs/jam-stack/</link>
-      <pubDate>Fri, 17 Nov 2023 00:15:17 +0100</pubDate>
-      
-      <guid>https://example.org/blogs/jam-stack/</guid>
-      <description>Cosa vuol dire realizzare un sito web in JAM stack </description>
     </item>
     
   </channel>
