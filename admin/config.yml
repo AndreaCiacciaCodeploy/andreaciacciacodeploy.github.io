@@ -2,10 +2,8 @@ backend:
   name: github
   repo: AndreaCiacciaCodeploy/my-website
   branch: main
-  auth_type: oauth
-  app_id: Ov23li7xKD7PKRWqQElv  
-  base_url: https://github.com
-  auth_endpoint: login/oauth/authorize
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 site_url: https://andreaciaccia.it
 
