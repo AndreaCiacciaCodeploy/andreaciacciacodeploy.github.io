@@ -2,6 +2,7 @@ backend:
   name: github
   repo: AndreaCiacciaCodeploy/my-website
   branch: main
+  base_url: https://api.netlify.com
 
 site_url: https://andreaciaccia.it
 
