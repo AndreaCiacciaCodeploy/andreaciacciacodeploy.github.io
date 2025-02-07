@@ -29,7 +29,8 @@
 
 
 <meta property="og:title" content="Realizzare un sito in JAM stack" />
-<meta property="og:description" content="Cosa vuol dire realizzare un sito web in JAM stack " />
+<meta property="og:description" content="Cosa vuol dire costruire un sito in JAM stack? Se hai un po’ di familiarità con lo sviluppo web, probabilmente ti sarà capitato di sentir parlare di JAMstack. Ma cosa significa concretamente costruire un sito con questa metodologia, e perché sta guadagnando popolarità negli ultimi anni?
+Definizione: JAMstack in breve Il termine JAMstack è un acronimo che sta per JavaScript, API e Markup. Indica un approccio allo sviluppo web che punta a separare il più possibile il livello di presentazione (il front-end) dalla logica e dai servizi lato server." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://andreaciaccia.it/blogs/jam-stack/" /><meta property="article:section" content="blogs" />
 <meta property="article:published_time" content="2023-11-17T00:15:17+01:00" />
@@ -38,7 +39,8 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Realizzare un sito in JAM stack"/>
-<meta name="twitter:description" content="Cosa vuol dire realizzare un sito web in JAM stack "/>
+<meta name="twitter:description" content="Cosa vuol dire costruire un sito in JAM stack? Se hai un po’ di familiarità con lo sviluppo web, probabilmente ti sarà capitato di sentir parlare di JAMstack. Ma cosa significa concretamente costruire un sito con questa metodologia, e perché sta guadagnando popolarità negli ultimi anni?
+Definizione: JAMstack in breve Il termine JAMstack è un acronimo che sta per JavaScript, API e Markup. Indica un approccio allo sviluppo web che punta a separare il più possibile il livello di presentazione (il front-end) dalla logica e dai servizi lato server."/>
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -241,7 +243,118 @@ Realizzare un sito in JAM stack | Sperimentiamo con il web
           </div>
           
           <article class="page-content  p-2">
-          <h1 id="cosa-vuol-dire-realizzare-un-sito-web-in-jam-stack">Cosa vuol dire realizzare un sito web in JAM stack</h1>
+          <h2 id="cosa-vuol-dire-costruire-un-sito-in-jam-stack">Cosa vuol dire costruire un sito in JAM stack?</h2>
+<p>Se hai un po’ di familiarità con lo sviluppo web, probabilmente ti sarà capitato di sentir parlare di <em>JAMstack</em>. Ma cosa significa concretamente costruire un sito con questa metodologia, e perché sta guadagnando popolarità negli ultimi anni?</p>
+<h3 id="definizione-jamstack-in-breve">Definizione: JAMstack in breve</h3>
+<p>Il termine <em>JAMstack</em> è un acronimo che sta per <strong>JavaScript, API e Markup</strong>. Indica un approccio allo sviluppo web che punta a separare il più possibile il livello di presentazione (il front-end) dalla logica e dai servizi lato server.</p>
+<ul>
+<li>
+<dl>
+<dt><strong>JavaScript</strong></dt>
+<dd>
+<p>Viene usato per gestire l’interattività sul lato client.</p>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt><strong>API</strong></dt>
+<dd>
+<p>Le funzionalità di business, come la gestione dei dati o l’autenticazione, sono affidate a servizi esterni o a microservizi, utilizzando API (Application Programming Interfaces).</p>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt><strong>Markup</strong></dt>
+<dd>
+<p>Si tratta di pagine statiche generate in anticipo (ad esempio con un generatore statico) e servite ai visitatori, garantendo performance elevate.</p>
+</dd>
+</dl>
+</li>
+</ul>
+<h3 id="come-funziona-nellarchitettura-web">Come funziona nell’architettura web</h3>
+<p>Tradizionalmente, i siti dinamici si basano su un CMS (ad esempio WordPress, Drupal, ecc.) che genera le pagine “al volo” rispondendo alle richieste degli utenti, collegandosi a un database. In un’architettura JAMstack, invece:</p>
+<ol>
+<li>
+<p>Il front-end viene</p>
+<p><em>precompilato</em></p>
+<p>(o</p>
+<p><em>generato</em></p>
+<p>) in formato statico, di solito con un generatore di siti statici come</p>
+<p><strong>Gatsby</strong></p>
+<p>,</p>
+<p><strong>Next.js</strong></p>
+<p>,</p>
+<p><strong>Nuxt.js</strong></p>
+<p>o</p>
+<p><strong>Eleventy</strong></p>
+<p>.</p>
+</li>
+<li>
+<p>Le parti dinamiche (come l’acquisizione di dati da un database o la gestione dell’autenticazione) vengono demandate a</p>
+<p><strong>API</strong></p>
+<p>esterne o ad altri servizi in cloud.</p>
+</li>
+<li>
+<p>I contenuti vengono spesso gestiti tramite</p>
+<p><strong>Headless CMS</strong></p>
+<p>(Contentful, Sanity, Strapi, ecc.), che permettono di slegare completamente il sistema di gestione dei contenuti dalla presentazione.</p>
+</li>
+</ol>
+<h3 id="perché-scegliere-jamstack">Perché scegliere JAMstack?</h3>
+<ol>
+<li><strong>Performance elevate</strong>
+Servire pagine statiche, già “pre-renderizzate”, riduce notevolmente i tempi di caricamento. Niente lunghi round-trip di database o esecuzioni server-side: il risultato è un’esperienza più fluida per gli utenti.</li>
+<li><strong>Scalabilità e affidabilità</strong>
+Grazie al fatto che le pagine sono statiche, il tuo sito può essere ospitato su CDN (Content Delivery Network). Questo significa che i contenuti saranno replicati in diverse aree geografiche, garantendo un caricamento veloce e la capacità di gestire picchi di traffico senza intoppi.</li>
+<li><strong>Maggiore sicurezza</strong>
+Dato che non c’è un database esposto o un server da gestire direttamente, la superficie di attacco si riduce. Le API esterne rimangono protette da meccanismi di autenticazione e sicurezza specifici, e il tuo sito statico è difficilmente vulnerabile a intrusioni come quelle tipiche di un CMS tradizionale.</li>
+<li><strong>Flessibilità</strong>
+L’approccio modulare permette di integrare facilmente nuovi servizi, funzioni e provider: puoi scegliere il tuo CMS preferito, migrare i dati su un altro servizio, oppure aggiungere funzionalità come l’e-commerce con soluzioni dedicate (per esempio Snipcart o Shopify) senza riscrivere l’intero progetto.</li>
+<li><strong>Sviluppo più semplice</strong>
+Separare le preoccupazioni (front-end, funzioni serverless/API, servizi di terze parti) rende lo sviluppo e la manutenzione più lineari. Inoltre, lavorare con generatori statici e un flusso di integrazione continua (CI/CD) snellisce molto i processi di rilascio e aggiornamento.</li>
+</ol>
+<h3 id="come-iniziare-strumenti-e-best-practice">Come iniziare: strumenti e best practice</h3>
+<ul>
+<li>
+<dl>
+<dt><strong>Generatori statici</strong></dt>
+<dd>
+<p>Scegli uno strumento che meglio si adatti alle tue esigenze e alla tua familiarità con determinati framework. Gatsby (basato su React), Next.js (React), Nuxt.js (Vue.js), SvelteKit (Svelte) e Hugo (Go) sono alcuni dei più popolari.</p>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt><strong>Headless CMS</strong></dt>
+<dd>
+<p>Connetti il tuo front-end a un sistema di gestione contenuti headless (Contentful, Sanity, Strapi o Ghost) per aggiornare facilmente i testi e le immagini senza dover toccare il codice.</p>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt><strong>Deployment</strong></dt>
+<dd>
+<p>Piattaforme come Netlify, Vercel o AWS Amplify semplificano il deploy di progetti JAMstack offrendo integrazione continua e hosting su CDN.</p>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt><strong>API &amp; Funzioni serverless</strong></dt>
+<dd>
+<p>Integra funzionalità dinamiche o personalizzate, come l’invio di form o le autenticazioni utente, tramite API e servizi serverless (ad es. Netlify Functions, AWS Lambda, Azure Functions).</p>
+</dd>
+</dl>
+</li>
+</ul>
+<h3 id="jamstack-unevoluzione-naturale-del-web">JAMstack: un’evoluzione naturale del web</h3>
+<p>L’idea di creare siti statici esiste da sempre, ma il connubio di generatori moderni, API e servizi cloud ha dato vita a uno sviluppo web più “leggero” e reattivo. Le grandi aziende scelgono questa metodologia per siti e portali ad alto traffico, confermando il potenziale di velocità, scalabilità e sicurezza offerto dal JAMstack.</p>
+<h3 id="conclusione">Conclusione</h3>
+<p>Costruire un sito in JAMstack significa ripensare l’architettura tradizionale per abbracciare un approccio più modulare, performante e sicuro. Questo non vuol dire che i CMS classici o i framework server-side non abbiano più senso: dipende sempre dal tipo di progetto e dagli obiettivi finali. Ma per chi cerca un modo moderno ed efficiente di sviluppare e gestire applicazioni e siti web, la strada del JAMstack è decisamente da esplorare.</p>
+<p><strong>Spero che questa panoramica sul JAMstack ti sia stata utile!</strong> Se vuoi approfondire o hai domande specifiche su tooling, hosting o best practice, lascia un commento o contattami: sarò felice di aiutarti a scoprire i vantaggi di questa metodologia di sviluppo web.</p>
 
           </article>
         </div>
@@ -254,7 +367,20 @@ Realizzare un sito in JAM stack | Sperimentiamo con il web
                 Lista contenuti
               </h5>
               <div class="toc-content">
-                <nav id="TableOfContents"></nav>
+                <nav id="TableOfContents">
+  <ul>
+    <li><a href="#cosa-vuol-dire-costruire-un-sito-in-jam-stack">Cosa vuol dire costruire un sito in JAM stack?</a>
+      <ul>
+        <li><a href="#definizione-jamstack-in-breve">Definizione: JAMstack in breve</a></li>
+        <li><a href="#come-funziona-nellarchitettura-web">Come funziona nell’architettura web</a></li>
+        <li><a href="#perché-scegliere-jamstack">Perché scegliere JAMstack?</a></li>
+        <li><a href="#come-iniziare-strumenti-e-best-practice">Come iniziare: strumenti e best practice</a></li>
+        <li><a href="#jamstack-unevoluzione-naturale-del-web">JAMstack: un’evoluzione naturale del web</a></li>
+        <li><a href="#conclusione">Conclusione</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
               </div>
           </aside>
           
@@ -393,7 +519,8 @@ obiettivi e target …</p>
                         <h5 class="card-title bg-transparent" title="Realizzare un sito in JAM stack">Realizzare un sito in JAM …</h5>
                     </a>
                     <div class="card-text secondary-font">
-                        <p>Cosa vuol dire realizzare un sito web in JAM stack </p>
+                        <p>Cosa vuol dire costruire un sito in JAM stack? Se hai un po’ di familiarità con lo sviluppo web, probabilmente ti sarà capitato di sentir parlare di JAMstack. Ma cosa significa concretamente costruire un sito con questa metodologia, e perché sta guadagnando popolarità negli ultimi anni?
+Definizione: …</p>
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
@@ -425,7 +552,7 @@ obiettivi e target …</p>
                         height="40px" width="40px">
                 </a>
             </div>
-            &copy; 2023  All rights reserved
+            &copy; 2025  All rights reserved
             <div class="text-secondary">
                 Made with
                 <span class="text-danger">
