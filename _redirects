@@ -1,0 +1,5 @@
+# Consenti a /admin/* di restituire i file reali (status 200).
+/admin/*   /admin/:splat   200
+
+# Tutto il resto manda a una 404 (oppure neghi accesso con 403 se preferisci).
+/*         /404.html        404
