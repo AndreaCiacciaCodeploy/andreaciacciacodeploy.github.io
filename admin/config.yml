@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: AndreaCiacciaCodeploy/my-website
-  site_domain: 1c3a3419-5a67-4af7-94a2-4480d89a36fc
 
 site_url: https://andreaciaccia.it
 
