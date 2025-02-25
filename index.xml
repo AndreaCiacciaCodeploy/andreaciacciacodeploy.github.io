@@ -28,5 +28,14 @@ agenda Definire una agenda della nostra presentazione ci aiuta a crearne i succe
 Definizione: JAMstack in breve Il termine JAMstack è un acronimo che sta per JavaScript, API e Markup. Indica un approccio allo sviluppo web che punta a separare il più possibile il livello di presentazione (il front-end) dalla logica e dai servizi lato server.</description>
     </item>
     
+    <item>
+      <title>test</title>
+      <link>https://andreaciaccia.it/blogs/2025-02-25-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreaciaccia.it/blogs/2025-02-25-test/</guid>
+      <description>khjghjhgjk</description>
+    </item>
+    
   </channel>
 </rss>
